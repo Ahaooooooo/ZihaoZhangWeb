@@ -4,8 +4,14 @@ title: "About"
 
 My parents moved to [Qingdao](https://en.wikipedia.org/wiki/Qingdao), the city where I was born and grew up, from rural [Henan](https://en.wikipedia.org/wiki/Henan) in the early 1990s. My elder sister was just born as the time and was left in the village to be taken care by my grandparents.
 
-China was changing rapidly. The country was still figuring out its way forward from decades of chaos and trauma. Transformations of all types were happening before people realised them. My parents were lucky. They made their business fortunes in the city from scratch, also in a way that they probably didn't expect. Thanks to their lucks, and of course more importantly, hard-work and commitments to investing in education (esp. my mother), my sister and I were able to pursue advanced education overseas.
+![The hometown village in rural Henan](pictures/village.jpg){fig-alt="The hometown village in rural Henan" fig-align="center" width="1000"}
+
+China was changing rapidly. The country was still figuring out its way forward from decades of chaos and trauma. Transformations of all types were happening before people realised them. My parents were lucky. They made their business fortunes in the city from scratch, also in a way that they probably didn't expect. Thanks to their lucks, and more importantly, hard-work and commitments to investing in education (esp. my mother), my sister and I were able to pursue advanced education overseas.
 
 Of course, I personally have no ideas what life and society were like back in the 1990s and earlier, perhaps not even early 2000s. I get most of the impressions from my parents talking about their childhoods (in hunger and search for all sorts of things as snacks, as how most of the times the stories are told) and youth, and reading history. I guess the past is always a mystery, but certainly more so in contemporary China than perhaps anywhere else.
 
-My education trajectory in China was suddenly interrupted by a
+My education trajectory in China was suddenly interrupted when I missed the high-school entrance exam due to a surgery. In search for alternative education option, I hopped on a new wave of social change and mobility and came abroad to the UK, just like my parents did 30 years ago, but this time at the global scale.
+
+Despite such mobility, my parents and I (often made by them) still visit their rural hometown every year. The waves of social changes have brought my family and myself away from the Yellow River and the loess hills, yet I find myself keep returning to them. It's not hard to imagine a parallel universe, in which my parents never left the village and the fates of my sister and I would be completely different.
+
+My interests in social stratification and social changes grew out of this family experience. I'm interested in understanding how structural social forces and changes - both domestic and global - shape individuals' and families' divergent life trajectories. You can check out my research [here](research.qmd).

@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-You can download my [CV](file/ZihaoZhang-CV-10-2025).
+You can download my CV [here](file/ZihaoZhang-CV-10-2025).
 
 [中文简历](file/ZihaoZhang-CV-CN-11-2025)
